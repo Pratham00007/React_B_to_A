@@ -40,6 +40,8 @@ remove app.css and app.jsx from start
 
 <br>
 
-* to use javascript use { }
+* to use javascript use { } but oustide return we can directly use js
 
 ![alt text](image-8.png)
+
+![alt text](image-9.png)
