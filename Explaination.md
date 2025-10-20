@@ -37,3 +37,9 @@ remove app.css and app.jsx from start
 ![alt text](image-6.png)
 
 ![alt text](image-7.png)
+
+<br>
+
+* to use javascript use { }
+
+![alt text](image-8.png)
